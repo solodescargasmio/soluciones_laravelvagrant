@@ -43,7 +43,9 @@
             .content {
                 text-align: center;
             }
-
+.p1{
+	font-size: 50px;
+}
             .title {
                 font-size: 84px;
             }
@@ -81,11 +83,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Soluciones Empresariales 
                 </div>
-
+<p1 class="p1"> EURESIS S.R.L</p1>
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
+                    <a href="https://laravel.com/docs">Quienes Somos</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
